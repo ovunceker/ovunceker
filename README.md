@@ -1,9 +1,12 @@
-## Hello everyone 👋
+## Hey 👋
 
-🤔 The main reason why I opened up this GitHub page is to share the projects I'll be working on and to have a place for writing down the things I want to learn. 
+⏳ A few years back, I opened my Github account to track projects and learning. Now it's more intentional: this has become the place where I put the stuff I've actually built. 
 
-👨‍💻 I've recently come across with data science and it instantly grasped my attention as a math person. I already knew some amount of Python and then I took an online course on Machine Learning (using Python), SQL, and Data Science (using R). That's why on most of my projects, I'll be using Python, SQL and R. My main goal for working on these projects is to combine these coding skills with the down to earth things I'm interested in or curiuos about to learn more. That's why some of the projects will be my idea but some of them can be found online. 
+📚 I'm finishing an M.S. in Data Science at Johns Hopkins. Most of my time goes into deep learning, LLM integration, and building systems that actually work in production. Before grad school, I studied math (undergrad and master's) which gives me solid grounding in the theory, but I care more about making things work than proving theorems.
 
-💼 To learn more about me: [My LinkedIn address](https://www.linkedin.com/in/ovunceker/)
+👨‍💻 Most of the code here will be in Python and R. If you see any other language, that would be written with the help of an AI assistant (mostly Claude). Almost all of the projects here are my own ideas. I rarely delete a repository, so you can checkout my old projects/repos to understand my progress. 
 
-📧 To reach me out: ozguneker6776@gmail.com 
+
+🌐[My Website](https://ovunceker.github.io/personal-website/)
+💼[LinkedIn](https://www.linkedin.com/in/ovunceker/)
+📧[ozguneker6776@gmail.com](ozguneker6776@gmail.com)
