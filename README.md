@@ -8,5 +8,7 @@
 
 
 🌐[My Website](https://ovunceker.github.io/personal-website/)
+
 💼[LinkedIn](https://www.linkedin.com/in/ovunceker/)
+
 📧[ozguneker6776@gmail.com](ozguneker6776@gmail.com)
